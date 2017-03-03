@@ -15,6 +15,8 @@ a:hover {color: #111;}
 .nav .nav-button {background: #85144b; padding: 1.3rem 1rem; margin-left: 1.2rem;}
 .nav .nav-button:hover {background: #781244;}
 .hero.is-dark {background: #1a3552;}
+.hero.is-info {background: #1a3552 url('//edelstone.github.io/best-remote-org/images/map.jpg');}
+.hero.is-info .hero-body {background: rgba(0, 31, 63, 0.92);}
 .main-area {margin-top: 0.5rem;}
 .card {margin-bottom: 1rem;}
 .card-footer {border: none;}
@@ -28,7 +30,7 @@ a:hover {color: #111;}
 .card .card-title {margin-bottom: -0.8rem; font-weight: 900;}
 .card .card-title a {border: none;}
 .card .card-sub {font-size: 0.8rem; margin-bottom: 1.5em;}
-.tag {margin-bottom: 0.6rem; margin-right: 0.1rem; font-size: 0.8rem;}
+.tag {margin-bottom: 0.5rem; margin-right: 0.1rem; font-size: 0.8rem;}
 .tag-cloud {margin-top: 1.5rem;}
 .tag.is-light {color: #111;}
 .icon.map-icon {vertical-align: baseline; color: #aaa;}
@@ -38,7 +40,9 @@ a:hover {color: #111;}
 .footer .column.is-1 {text-align: right;}
 .footer-logo {width: 55px; height: 51px;}
 .modal-card-head, .modal-card-foot {background: #e6e9ec; border: none; border-radius: 0;}
+.modal-card-foot {padding: 15px;}
 .modal-card-title {font-weight: bold; color: #111;}
+.modal-logo {max-width: 1.8rem;}
 .delete {background-color: #85144b;}
 .delete:hover {background: #912c5d;}
 .modal-background {background-color: rgba(17,17,17,.9);}
