@@ -1,4 +1,4 @@
-# [Best Remote Orgs](http://bestremote.work)
+# [<img src="https://edelstone.github.io/best-remote-orgs/images/touch.png" width="25px" />](http://bestremote.work) &nbsp;[Best Remote Orgs](http://bestremote.work)
 
 ## Why I made this
 
