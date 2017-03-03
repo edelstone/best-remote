@@ -1,0 +1,55 @@
+body {background: #e6e9ec; color: #111;}
+.nav, .main-area, .container {max-width: 1200px; margin: auto; padding: 1.5rem;}
+.banner, .nav, .nav-menu {background: #001f3f;}
+a {color: #85144b; border-bottom: 1px dotted #aaa;}
+a:hover {color: #111;}
+.content, .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {color: #111;}
+.nav h1 {font-size: 1.75em; font-weight: 900;}
+.remote-logo {max-width: 2.4rem; height: auto; margin-right: 0.5rem;}
+.nav-menu {box-shadow: none;}
+.nav-item {color: #eee; padding: 0;}
+.nav-item a, a.nav-item {color: #eee; flex-grow: 0; border: none;}
+.nav-item a:hover, a.nav-item:hover {color: #fff;}
+.nav-item.thats-me {align-items: baseline; margin-top: .6rem;}
+.nav-item.thats-me a {margin-left: 0.3rem; border-bottom: 1px dotted rgba(255,255,255,0.4);}
+.nav .nav-button {background: #85144b; padding: 1.3rem 1rem; margin-left: 1.2rem;}
+.nav .nav-button:hover {background: #781244;}
+.hero.is-dark {background: #1a3552;}
+.main-area {margin-top: 0.5rem;}
+.card {margin-bottom: 1rem;}
+.card-footer {border: none;}
+.card-footer .card-footer-item {color: #fff; border: none;}
+.card-link-1 {background: #85144b;}
+.card-link-1:hover {background: #912c5d;}
+.card-link-2 {background: #317a5a;}
+.card-link-2:hover {background: #378a65	;}
+.card-link-3 {background: #001f3f;}
+.card-link-3:hover {background: #1a3552;}
+.card .card-title {margin-bottom: -0.8rem; font-weight: 900;}
+.card .card-title a {border: none;}
+.card .card-sub {font-size: 0.8rem; margin-bottom: 1.5em;}
+.tag {margin-bottom: 0.6rem; margin-right: 0.1rem; font-size: 0.8rem;}
+.tag-cloud {margin-top: 1.5rem;}
+.tag.is-light {color: #111;}
+.icon.map-icon {vertical-align: baseline; color: #aaa;}
+.icon.logo-icon {margin-right: 0.8rem; font-size: 1.8rem; color: #85144b; vertical-align: baseline;}
+.footer a {font-weight: bold;}
+.footer {padding: 3rem 0; background: #ccd2d9;}
+.footer .column.is-1 {text-align: right;}
+.footer-logo {width: 55px; height: 51px;}
+.modal-card-head, .modal-card-foot {background: #e6e9ec; border: none; border-radius: 0;}
+.modal-card-title {font-weight: bold; color: #111;}
+.delete {background-color: #85144b;}
+.delete:hover {background: #912c5d;}
+.modal-background {background-color: rgba(17,17,17,.9);}
+
+@media (max-width: 768px) {
+	.hero {margin-top: 7rem;}
+	.nav-menu .nav-item {padding: 0.75rem 1.5rem;}
+	.nav .nav-item, .nav .nav-left {border: none; justify-content: center; display: block; text-align: center; white-space: normal;}
+	.nav .nav-button {width: 100%; margin-bottom: 1rem; margin-left: 0;}
+	.nav-menu {margin-top: -1.5rem;}
+	.nav-item.thats-me a {margin-left: 0;}
+	.footer {text-align: center;}
+	.footer .column.is-1 {text-align: center; margin-top: 1rem;}
+}
