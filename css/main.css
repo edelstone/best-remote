@@ -15,7 +15,7 @@ a:hover {color: #111;}
 .nav .nav-button {background: #85144b; padding: 1.3rem 1rem; margin-left: 1.2rem;}
 .nav .nav-button:hover {background: #781244;}
 .hero.is-dark {background: #1a3552;}
-.hero.is-info {background: #1a3552 url('//edelstone.github.io/best-remote-org/images/map.jpg');}
+.hero.is-info {background: #1a3552 url('//edelstone.github.io/best-remote-orgs/images/map.jpg');}
 .hero.is-info .hero-body {background: rgba(0, 31, 63, 0.92);}
 .main-area {margin-top: 0.5rem;}
 .card {margin-bottom: 1rem;}
