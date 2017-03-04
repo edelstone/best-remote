@@ -6,7 +6,7 @@
 
 ## Why I made this
 
-I've been doing a lot of research on remote companies for my next job opportunity, and I think this may help others who are interested in remote work or organizations. There are [plenty](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md) [of](https://weworkremotely.com/) [good](https://github.com/jessicard/remote-jobs/blob/master/README.md) [resources](https://remotebase.io/) out there on remote jobs, but none that focus specifically on gathering the most interesting information (recruitment sites, articles, blog posts, interviews, etc.) about the absolute best companies.
+I've been doing a lot of research on remote companies for my next job opportunity, and it's been useful collecting it in one place. I think this may help others who are interested in remote work or organizations. There are [plenty](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md) [of](https://weworkremotely.com/) [good](https://github.com/jessicard/remote-jobs/blob/master/README.md) [resources](https://remotebase.io/) out there on remote jobs, but none that focus specifically on gathering the most interesting information (recruitment sites, articles, blog posts, interviews, etc.) about the absolute best companies.
 
 ## My criteria
 
