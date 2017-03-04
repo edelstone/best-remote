@@ -1,4 +1,4 @@
-# [<img src="https://edelstone.github.io/best-remote-orgs/images/touch.png" width="25px" />](http://bestremote.work) &nbsp;[Best Remote](http://bestremote.work)
+# [<img src="https://edelstone.github.io/best-remote/images/touch.png" width="25px" />](http://bestremote.work) &nbsp;[Best Remote](http://bestremote.work)
 
 ## Overview
 
@@ -6,11 +6,11 @@
 
 ## Why I made this
 
-I've been doing a lot of research on remote companies for my next job opportunity, and I think it might help others who are interested in remote work. There are [lots](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md) [of](https://weworkremotely.com/) [good](https://github.com/jessicard/remote-jobs/blob/master/README.md) [resources](https://remotebase.io/) out there on remote jobs, but none that focus specifically on gathering the most interesting information (recruitment sites, articles, blog posts, interviews, etc.) about the absolute best companies.
+I've been doing a lot of research on remote companies for my next job opportunity, and I think this may help others who are interested in remote work or organizations. There are [plenty](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md) [of](https://weworkremotely.com/) [good](https://github.com/jessicard/remote-jobs/blob/master/README.md) [resources](https://remotebase.io/) out there on remote jobs, but none that focus specifically on gathering the most interesting information (recruitment sites, articles, blog posts, interviews, etc.) about the absolute best companies.
 
 ## My criteria
 
-I personally gravitate towards organizations with an opinionated view of themselves. They've thought pretty deeply about their culture and they signal it, whether in the form of a well-crafted recruitment page, frequent blog posts, podcast appearances, or whatever. I'm also only featuring organizations that are “remote-first” or “remote-friendly”, not merely “remote-allowed” or those with firm geographic restrictions.
+I personally gravitate towards organizations with an opinionated view of themselves and an established remote philosophy. They've thought pretty deeply about their culture and they signal that to the world, whether in the form of a well-crafted recruitment page, frequent blog posts, podcast appearances, or whatever. I'm also only featuring organizations that are “remote-first” or “remote-friendly”, not merely “remote-allowed” or those with significant geographic restrictions.
 
 ## Credits
 

@@ -3,6 +3,7 @@ body {background: #e6e9ec; color: #111;}
 .banner, .nav, .nav-menu {background: #001f3f;}
 a {color: #85144b; border-bottom: 1px dotted #aaa;}
 a:hover {color: #111;}
+.emphasis {font-weight: 700 !important;}
 .content, .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {color: #111;}
 .nav h1 {font-size: 1.75em; font-weight: 900;}
 .remote-logo {margin-right: 0.2rem;}
@@ -15,7 +16,7 @@ a:hover {color: #111;}
 .nav .nav-button {background: #85144b; padding: 1.3rem 1rem; margin-left: 1.2rem;}
 .nav .nav-button:hover {background: #781244;}
 .hero.is-dark {background: #1a3552;}
-.hero.is-info {background: #1a3552 url('//edelstone.github.io/best-remote-orgs/images/map.jpg');}
+.hero.is-info {background: #1a3552 url('//edelstone.github.io/best-remote/images/map.jpg');}
 .hero.is-info .hero-body {background: rgba(0, 31, 63, 0.92);}
 .main-area {margin-top: 0.5rem;}
 .card {margin-bottom: 1rem;}
@@ -27,13 +28,17 @@ a:hover {color: #111;}
 .card-link-2:hover {background: #378a65	;}
 .card-link-3 {background: #85144b;}
 .card-link-3:hover {background: #912c5d;}
-.card .card-title {margin-bottom: -0.8rem; font-weight: 900;}
+.card .card-title {margin-bottom: -0.5rem; font-weight: 900;}
 .card .card-title a {border: none;}
-.card .card-sub {font-size: 0.8rem; margin-bottom: 1.5em;}
+.card .card-sub {font-size: 0.8rem;}
+.card .content .employee-count {margin-bottom: 0;}
+.card .content .social-etc {margin: 0.8rem 0 1.5rem;}
+.social-etc a {border: none;}
+.social-etc .icon {margin-right: 0.3rem;}
+.svg-icon:hover .glassdoor {fill: #111;}
 .tag {margin-bottom: 0.5rem; margin-right: 0.1rem; font-size: 0.8rem;}
 .tag-cloud {margin-top: 1.5rem;}
 .tag.is-light {color: #111;}
-.icon.map-icon {vertical-align: baseline; color: #aaa;}
 .icon.logo-icon {margin-right: 0.8rem; font-size: 1.8rem; color: #85144b; vertical-align: baseline;}
 .footer a {font-weight: bold;}
 .footer {padding: 3rem 0; background: #ccd2d9;}
