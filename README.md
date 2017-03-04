@@ -2,7 +2,7 @@
 
 ## Overview
 
-[Best Remote](http://bestremote.work) is a collection of resources from today's top remote companies, organized in a clean, consumable, and fun way.
+[Best Remote](http://bestremote.work) is a collection of resources from today's top remote-first and remote-friendly companies, organized in a clean, consumable and fun way.
 
 ## Why I made this
 
