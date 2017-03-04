@@ -20,7 +20,7 @@ a:hover {color: #111;}
 .main-area {margin-top: 0.5rem;}
 .card {margin-bottom: 1rem;}
 .card-footer {border: none;}
-.card-footer .card-footer-item {color: #fff; border: none;}
+.card-footer .card-footer-item {color: #fff; border: none; font-weight: 500;}
 .card-link-1 {background: #001f3f;}
 .card-link-1:hover {background: #1a3552;}
 .card-link-2 {background: #317a5a;}
