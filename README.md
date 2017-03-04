@@ -14,7 +14,7 @@ I personally gravitate towards organizations with an opinionated view of themsel
 
 ## Credits
 
-* Thanks to [@jessicard](https://twitter.com/jessicard) and her [Remote-friendly companies repository](https://github.com/jessicard/remote-jobs) for the inspiration to document my research.
+* Thanks to [@jessicard](https://twitter.com/jessicard) and her [*Remote-friendly companies*](https://github.com/jessicard/remote-jobs) repository for the inspiration to document my research.
 * Logo courtesy of [Freepik](http://www.freepik.com/) and pulled from [flaticon.com](http://www.flaticon.com/).
 * This site is built using the lovely [Bulma framework](http://bulma.io/).
 * Color scheme inspired by [clrs.cc](http://clrs.cc/).

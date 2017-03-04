@@ -15,9 +15,8 @@ a:hover {color: #111;}
 .nav-item.thats-me a {margin-left: 0.3rem; border-bottom: 1px dotted rgba(255,255,255,0.4);}
 .nav .nav-button {background: #85144b; padding: 1.3rem 1rem; margin-left: 1.2rem;}
 .nav .nav-button:hover {background: #781244;}
-.hero.is-dark {background: #1a3552;}
+.hero.is-dark, .hero.is-info .hero-body {background: #1a3552; background: repeating-linear-gradient(0deg, rgba(0, 31, 63, .95), rgba(0, 31, 63, 0.95) 1px, rgba(0, 31, 63, .9) 1px, rgba(0, 31, 63, 0.9) 2px);}
 .hero.is-info {background: #1a3552 url('//edelstone.github.io/best-remote/images/map.jpg');}
-.hero.is-info .hero-body {background: rgba(0, 31, 63, 0.92);}
 .main-area {margin-top: 0.5rem;}
 .card {margin-bottom: 1rem;}
 .card-footer {border: none;}
@@ -39,15 +38,11 @@ a:hover {color: #111;}
 .tag {margin-bottom: 0.5rem; margin-right: 0.1rem; font-size: 0.8rem;}
 .tag-cloud {margin-top: 1.5rem;}
 .tag.is-light {color: #111;}
-.icon.logo-icon {margin-right: 0.8rem; font-size: 1.8rem; color: #85144b; vertical-align: baseline;}
 .footer a {font-weight: bold;}
 .footer {padding: 3rem 0; background: #ccd2d9;}
 .footer .column.is-1 {text-align: right;}
-.modal-card-head {background: #e6e9ec; border: none; border-radius: 0;}
-.modal-card-title {font-weight: bold; color: #111;}
-.delete {background-color: #85144b;}
-.delete:hover {background: #912c5d;}
-.modal-background {background-color: rgba(17,17,17,.9);}
+.narrow-content {max-width: 700px; margin: auto;}
+.about {margin: 1rem auto 2rem;}
 
 @media (max-width: 768px) {
 	.hero {margin-top: 7rem;}
