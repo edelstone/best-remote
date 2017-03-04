@@ -1,8 +1,12 @@
-# [<img src="https://edelstone.github.io/best-remote-orgs/images/touch.png" width="25px" />](http://bestremote.work) &nbsp;[Best Remote Orgs](http://bestremote.work)
+# [<img src="https://edelstone.github.io/best-remote-orgs/images/touch.png" width="25px" />](http://bestremote.work) &nbsp;[Best Remote](http://bestremote.work)
+
+## Overview
+
+[Best Remote](http://bestremote.work) is a collection of resources from today's top remote companies, organized in a clean, consumable, and fun way.
 
 ## Why I made this
 
-I've been doing a lot of research on remote companies for my next job opportunity, and I figured I'd share with others who might benefit from this. There are [lots](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md) [of](https://weworkremotely.com/) [good](https://github.com/jessicard/remote-jobs/blob/master/README.md) [resources](https://remotebase.io/) out there on remote jobs, but none that focus specifically on gathering the most interesting information (recruitment sites, articles, blog posts, interviews, etc.) about the absolute best companies.
+I've been doing a lot of research on remote companies for my next job opportunity, and I think it might help others who are interested in remote work. There are [lots](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md) [of](https://weworkremotely.com/) [good](https://github.com/jessicard/remote-jobs/blob/master/README.md) [resources](https://remotebase.io/) out there on remote jobs, but none that focus specifically on gathering the most interesting information (recruitment sites, articles, blog posts, interviews, etc.) about the absolute best companies.
 
 ## My criteria
 

@@ -21,12 +21,12 @@ a:hover {color: #111;}
 .card {margin-bottom: 1rem;}
 .card-footer {border: none;}
 .card-footer .card-footer-item {color: #fff; border: none;}
-.card-link-1 {background: #85144b;}
-.card-link-1:hover {background: #912c5d;}
+.card-link-1 {background: #001f3f;}
+.card-link-1:hover {background: #1a3552;}
 .card-link-2 {background: #317a5a;}
 .card-link-2:hover {background: #378a65	;}
-.card-link-3 {background: #001f3f;}
-.card-link-3:hover {background: #1a3552;}
+.card-link-3 {background: #85144b;}
+.card-link-3:hover {background: #912c5d;}
 .card .card-title {margin-bottom: -0.8rem; font-weight: 900;}
 .card .card-title a {border: none;}
 .card .card-sub {font-size: 0.8rem; margin-bottom: 1.5em;}
