@@ -5,7 +5,7 @@ a {color: #85144b; border-bottom: 1px dotted #aaa;}
 a:hover {color: #111;}
 .content, .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {color: #111;}
 .nav h1 {font-size: 1.75em; font-weight: 900;}
-.remote-logo {max-width: 2.4rem; height: auto; margin-right: 0.5rem;}
+.remote-logo {margin-right: 0.2rem;}
 .nav-menu {box-shadow: none;}
 .nav-item {color: #eee; padding: 0;}
 .nav-item a, a.nav-item {color: #eee; flex-grow: 0; border: none;}
@@ -38,11 +38,8 @@ a:hover {color: #111;}
 .footer a {font-weight: bold;}
 .footer {padding: 3rem 0; background: #ccd2d9;}
 .footer .column.is-1 {text-align: right;}
-.footer-logo {width: 55px; height: 51px;}
-.modal-card-head, .modal-card-foot {background: #e6e9ec; border: none; border-radius: 0;}
-.modal-card-foot {padding: 15px;}
+.modal-card-head {background: #e6e9ec; border: none; border-radius: 0;}
 .modal-card-title {font-weight: bold; color: #111;}
-.modal-logo {max-width: 1.8rem;}
 .delete {background-color: #85144b;}
 .delete:hover {background: #912c5d;}
 .modal-background {background-color: rgba(17,17,17,.9);}
