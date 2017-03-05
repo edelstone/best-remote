@@ -8,14 +8,15 @@ a:hover {color: #111;}
 .nav h1 {font-size: 1.75em; font-weight: 900;}
 .remote-logo {margin-right: 0.2rem;}
 .nav-menu {box-shadow: none;}
-.nav-item {color: #eee; padding: 0;}
-.nav-item a, a.nav-item {color: #eee; flex-grow: 0; border: none;}
-.nav-item a:hover, a.nav-item:hover {color: #fff;}
+.nav-item {color: #e6e9ec; padding: 0;}
+.nav-item a, a.nav-item {color: #e6e9ec; flex-grow: 0; border: none;}
+.nav-item a:hover, a.nav-item:hover, .hero.is-info .subtitle a:hover {color: #fff;}
 .nav-item.thats-me {align-items: baseline; margin-top: .6rem;}
 .nav-item.thats-me a {margin-left: 0.3rem; border-bottom: 1px dotted rgba(255,255,255,0.4);}
-.nav .nav-button {background: #85144b; padding: 1.3rem 1rem; margin-left: 1.2rem;}
-.nav .nav-button:hover {background: #781244;}
+.button.is-primary {background: #85144b; padding: 1.3rem 1rem; margin-left: 1.2rem;}
+.button.is-primary:hover {background: #781244;}
 .hero.is-dark, .hero.is-info .hero-body {background: #1a3552; background: repeating-linear-gradient(0deg, rgba(0, 31, 63, .95), rgba(0, 31, 63, 0.95) 1px, rgba(0, 31, 63, .9) 1px, rgba(0, 31, 63, 0.9) 2px);}
+.hero.is-dark .title, .hero.is-info .title, .hero.is-info .subtitle, .hero.is-info .subtitle a, .hero.is-info .subtitle strong {color: #e6e9ec;}
 .hero.is-info {background: #1a3552 url('//edelstone.github.io/best-remote/images/map.jpg');}
 .main-area {margin-top: 0.5rem;}
 .card {margin-bottom: 1rem;}
@@ -45,12 +46,13 @@ a:hover {color: #111;}
 .about {margin: 1rem auto 2rem;}
 
 @media (max-width: 768px) {
-	.hero {margin-top: 7rem;}
+	.hero {margin-top: 6.5rem;}
 	.nav-menu .nav-item {padding: 0.75rem 1.5rem;}
 	.nav .nav-item, .nav .nav-left {border: none; justify-content: center; display: block; text-align: center; white-space: normal;}
-	.nav .nav-button {width: 100%; margin-bottom: 1rem; margin-left: 0;}
-	.nav-menu {margin-top: -1.5rem;}
+	.button.is-primary {width: 100%; margin-bottom: 1rem; margin-left: 0;}
+	.nav-menu {margin-top: -2rem;}
 	.nav-item.thats-me a {margin-left: 0;}
 	.footer {text-align: center;}
 	.footer .column.is-1 {text-align: center; margin-top: 1rem;}
+	.hero.is-dark, .hero.is-info .hero-body {background: #1a3552; background: rgba(0, 31, 63, 0.9);}
 }
