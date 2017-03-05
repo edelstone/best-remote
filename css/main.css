@@ -5,7 +5,8 @@ a {color: #85144b; border-bottom: 1px dotted #aaa;}
 a:hover {color: #111;}
 .emphasis {font-weight: 700 !important;}
 .content, .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {color: #111;}
-.nav h1 {font-size: 1.75em; font-weight: 900;}
+.nav {padding: 1.2rem 1.5rem;}
+.nav h1 {font-size: 1.8em; font-weight: 900;}
 .remote-logo {margin-right: 0.2rem;}
 .nav-menu {box-shadow: none;}
 .nav-item {color: #e6e9ec; padding: 0;}
