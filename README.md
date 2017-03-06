@@ -19,6 +19,6 @@ I personally gravitate towards organizations with an opinionated view of themsel
 * This site is built using the lovely [Bulma framework](http://bulma.io/).
 * Color scheme inspired by [clrs.cc](http://clrs.cc/).
 
-## Contributing
+## Feedback and contributing
 
 If this site has been useful to you, [drop me a line](http://michaeledelstone.com/contact) to let me know. And please fork, open issues, or use any bit of this site for your own purposes.
