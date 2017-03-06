@@ -53,6 +53,7 @@ a:hover {color: #111;}
 	.nav, .main-area, .container {padding: 1rem;}
 	.nav {padding: 0.5rem 0.25rem 0.25rem;}
 	.nav-menu .nav-item {border-top: 1px solid #1a3552;}
+	.nav-item .button+.button {margin-left: 0.75rem;}
 	.footer {text-align: center;}
 	.footer .column.is-1 {text-align: center; margin-top: 1rem;}
 	.hero.is-dark, .hero.is-info .hero-body {background: #1a3552; background: rgba(0, 31, 63, 0.9);}
