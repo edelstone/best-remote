@@ -10,7 +10,7 @@ I've been doing a lot of research on remote companies for my next job opportunit
 
 ## My criteria
 
-I personally gravitate towards organizations with an opinionated view of themselves and an established remote philosophy. They've thought pretty deeply about their culture and they signal that to the world, whether in the form of a well-crafted recruitment page, frequent blog posts, podcast appearances, or whatever. I'm only featuring organizations that are “remote-first” or very “remote-friendly”, not merely “remote-allowed” or those with significant geographic restrictions.
+I personally gravitate towards organizations with an opinionated view of themselves and an established remote philosophy. They've thought pretty deeply about their culture and they signal that to the world, whether in the form of a well-crafted recruitment page, frequent blog posts, podcast appearances, or whatever. I'm only featuring organizations that are “remote-only”, “remote-first” or very “remote-friendly”, not merely “remote-allowed” or those with significant geographic restrictions.
 
 ## Credits
 
