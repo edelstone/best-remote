@@ -11,7 +11,6 @@ a:hover {color: #111;}
 .nav-menu {box-shadow: none;}
 .nav-item {padding: 0;}
 .nav a {color: #e6e9ec; border: none;}
-.nav .nav-signature {border: none;}
 .nav-item a:hover, a.nav-item:hover, .hero.is-info .subtitle a:hover {color: #fff;}
 .button.is-primary {background: #85144b; padding: 1.3rem 1rem; margin-left: 1.2rem;}
 .button.is-primary:hover {background: #781244;}
