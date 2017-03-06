@@ -5,15 +5,20 @@ body {background: #e6e9ec; color: #111;}
 a {color: #85144b; border-bottom: 1px dotted #aaa;}
 a:hover {color: #111;}
 .emphasis {font-weight: 700 !important;}
-.nav {padding: 1.2rem 1.5rem;}
+.nav {padding: 0.75rem;}
 .nav h1 {font-size: 1.8em; font-weight: 900;}
 .remote-logo {margin-right: 0.3rem;}
-.nav-menu {box-shadow: none;}
-.nav-item {padding: 0;}
+.nav-menu {padding: 0;}
 .nav a {color: #e6e9ec; border: none;}
 .nav-item a:hover, a.nav-item:hover, .hero.is-info .subtitle a:hover {color: #fff;}
-.button.is-primary {background: #85144b; padding: 1.3rem 1rem; margin-left: 1.2rem;}
+.nav-item .button+.button {margin-left: 1.2rem;}
+.nav-toggle, .nav-toggle:hover {top: 0.4rem; right: 0.75rem; background: #1a3552; border-radius: 3px; width: 3rem; height: 2.8rem;}
+.nav-toggle span, .nav-toggle.is-active span {background-color: #e6e9ec;}
+.button {padding: 1.2rem 0.8rem; border: none; color: #fff !important;}
+.button.is-primary {background: #85144b; border: 1px solid #85144b;}
 .button.is-primary:hover {background: #781244;}
+.button.twitter-button {background: transparent; background: rgba(85, 172, 238, 0.2); border: 1px solid #55acee; border: 1px solid rgba(85, 172, 238, 0.4);}
+.button.twitter-button:hover {background: #55acee; background: rgba(85, 172, 238, 0.3);}
 .hero.is-dark, .hero.is-info .hero-body {background: #1a3552; background: repeating-linear-gradient(0deg, rgba(0, 31, 63, .95), rgba(0, 31, 63, 0.95) 1px, rgba(0, 31, 63, .9) 1px, rgba(0, 31, 63, 0.9) 2px);}
 .hero.is-dark .title, .hero.is-info .title, .hero.is-info .subtitle, .hero.is-info .subtitle a, .hero.is-info .subtitle strong {color: #e6e9ec;}
 .hero.is-info {background: #1a3552 url('//edelstone.github.io/best-remote/images/map.jpg');}
@@ -45,6 +50,9 @@ a:hover {color: #111;}
 .about {margin: 1rem auto 2rem;}
 
 @media (max-width: 768px) {
+	.nav, .main-area, .container {padding: 1rem;}
+	.nav {padding: 0.5rem 0.25rem 0.25rem;}
+	.nav-menu .nav-item {border-top: 1px solid #1a3552;}
 	.footer {text-align: center;}
 	.footer .column.is-1 {text-align: center; margin-top: 1rem;}
 	.hero.is-dark, .hero.is-info .hero-body {background: #1a3552; background: rgba(0, 31, 63, 0.9);}

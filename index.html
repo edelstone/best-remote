@@ -35,11 +35,19 @@
 				</h1>
     		</a>
   		</div>
+  		
+  		<span class="nav-toggle">
+  			<span></span>
+  			<span></span>
+  			<span></span>
+   		</span>
+   		
   		<div class="nav-right nav-menu">
    			<span class="nav-item">
    				<a href="/about">About</a>
    			</span>
    			<span class="nav-item">
+   				<a class="button twitter-button" data-social-network="Twitter" data-social-action="tweet" data-social-target="http://bestremote.work" target="_blank" href="https://twitter.com/intent/tweet?text=Best%20Remote:%20A%20curated%20reference%20about%20today's%20top%20remote%20companies.&amp;url=http://bestremote.work&amp;via=medelstone"><span class="icon"><i class="fa fa-twitter"></i></span><span>Tweet</span></a>
    				<a href="https://github.com/edelstone/best-remote" class="nav-button button is-primary"><span class="icon"><i class="fa fa-github"></i></span><span>View on GitHub</span></a>
     		</span>
   		</div>
@@ -611,7 +619,13 @@
 	</div>
 </footer>
 
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+<script>
+$(".nav-toggle").click(function(){
+    $(".nav-toggle, .nav-right").toggleClass("is-active");
+});
+</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
