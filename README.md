@@ -23,4 +23,4 @@ I'm only featuring organizations that are “remote-only”, “remote-first” 
 
 ## Feedback and contributing
 
-If this site has been useful to you, [drop me a line](http://michaeledelstone.com/contact) to let me know. And please fork, open issues, or use any bit of this site for your own purposes.
+If this site has been useful to you, [drop me a line](https://michaeledelstone.com/contact) to let me know. And please fork, open issues, or use any bit of this site for your own purposes.
