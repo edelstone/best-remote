@@ -21,7 +21,7 @@ a:hover {color: #111;}
 .button.twitter-button:hover {background: #55acee; background: rgba(85, 172, 238, 0.3);}
 .hero.is-dark, .hero.is-info .hero-body {background: #1a3552; background: repeating-linear-gradient(0deg, rgba(0, 31, 63, .95), rgba(0, 31, 63, 0.95) 1px, rgba(0, 31, 63, .9) 1px, rgba(0, 31, 63, 0.9) 2px);}
 .hero.is-dark .title, .hero.is-info .title, .hero.is-info .subtitle, .hero.is-info .subtitle a, .hero.is-info .subtitle strong {color: #e6e9ec;}
-.hero.is-info {background: #1a3552 url('//edelstone.github.io/best-remote/images/map.jpg');}
+.hero.is-info {background: #1a3552 url('/images/map.jpg');}
 .main-area {margin-top: 0.5rem;}
 .card {margin-bottom: 1rem;}
 .card-footer {border: none;}
