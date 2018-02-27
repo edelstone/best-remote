@@ -18,8 +18,7 @@ I'm only featuring organizations that are “remote-only”, “remote-first” 
 
 * Thanks to [@jessicard](https://twitter.com/jessicard) and her [*Remote-friendly companies*](https://github.com/jessicard/remote-jobs) repository for the inspiration to document my research.
 * Logo courtesy of [Freepik](http://www.freepik.com/) and pulled from [flaticon.com](http://www.flaticon.com/).
-* This site is built using the lovely [Bulma framework](http://bulma.io/).
-* Color scheme inspired by [clrs.cc](http://clrs.cc/).
+* This site is built using the [Bulma framework](http://bulma.io/).
 
 ## Feedback and contributing
 
