@@ -1,8 +1,8 @@
-# [<img src="https://edelstone.github.io/best-remote/images/touch.png" width="25px" />](http://bestremote.work) &nbsp;[Best Remote](http://bestremote.work)
+# [<img src="https://edelstone.github.io/best-remote/images/touch.png" width="25px" />](https://bestremote.work) &nbsp;[Best Remote](https://bestremote.work)
 
 ## Overview
 
-[Best Remote](http://bestremote.work) is a collection of resources about today's top remote-first and remote-friendly companies, organized in a clean, consumable and fun way.
+[Best Remote](https://bestremote.work) is a collection of resources about today's top remote-first and remote-friendly companies, organized in a clean, consumable and fun way.
 
 ## Why I made this
 
