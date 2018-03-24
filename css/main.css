@@ -38,7 +38,8 @@ a:hover {color: #111;}
 .card .content .employee-count {margin-bottom: 0;}
 .card .content .social-etc {margin: 0.8rem 0 1.5rem;}
 .social-etc a {border: none;}
-.social-etc .icon {margin-right: 0.3rem;}
+.social-etc .icon {margin-right: 0.5rem; width: initial;}
+.svg-icon {position: relative; top: 2px;}
 .svg-icon:hover .glassdoor {fill: #111;}
 .tag {margin-bottom: 0.5rem; margin-right: 0.1rem; font-size: 0.8rem;}
 .tag-cloud {margin-top: 1.5rem;}
