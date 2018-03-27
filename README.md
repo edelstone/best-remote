@@ -1,4 +1,4 @@
-# [<img src="https://bestremote.work/favicon.ico" width="25px" />](https://bestremote.work) &nbsp;[Best Remote](https://bestremote.work)
+# [<img src="https://bestremote.work/favicon.ico?v=kPxym2MxM2" width="25px" />](https://bestremote.work) &nbsp;[Best Remote](https://bestremote.work)
 
 ## Overview
 
