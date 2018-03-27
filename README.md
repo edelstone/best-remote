@@ -1,4 +1,4 @@
-# [<img src="https://edelstone.github.io/best-remote/images/touch.png" width="25px" />](https://bestremote.work) &nbsp;[Best Remote](https://bestremote.work)
+# [<img src="https://bestremote.work/favicon.ico" width="25px" />](https://bestremote.work) &nbsp;[Best Remote](https://bestremote.work)
 
 ## Overview
 
