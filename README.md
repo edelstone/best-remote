@@ -6,7 +6,7 @@
 
 ## Why I made this
 
-I've been doing a lot of research on remote companies for my next job opportunity, and it's been a useful exercise collecting it in one place. I think this may help others who are interested in remote work or organizations. There are [plenty](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md) [of](https://weworkremotely.com/) [good](https://github.com/jessicard/remote-jobs/blob/master/README.md) [resources](https://remotebase.io/) out there on remote jobs, but none that focus specifically on gathering the most interesting information (recruitment sites, articles, blog posts, interviews, etc.) about the absolute best companies.
+I've been doing a lot of research on remote companies for my next job opportunity, and it's been a useful exercise collecting it in one place. I think this may help others who are interested in remote work or organizations. There are [plenty](https://weworkremotely.com/) of [good](https://remoteintech.company/) [resources](https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md) out there on remote jobs, but none that focus specifically on gathering the most interesting information (recruitment sites, articles, blog posts, interviews, etc.) about the absolute best companies.
 
 ## My criteria
 
@@ -16,7 +16,6 @@ I'm only featuring organizations that are “remote-only”, “remote-first” 
 
 ## Credits
 
-* Thanks to [@jessicard](https://twitter.com/jessicard) and her [*Remote-friendly companies*](https://github.com/jessicard/remote-jobs) repository for the inspiration to document my research.
 * Logo courtesy of [Freepik](http://www.freepik.com/) and pulled from [flaticon.com](http://www.flaticon.com/).
 * This site is built using the [Bulma framework](http://bulma.io/).
 
