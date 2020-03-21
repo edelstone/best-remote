@@ -44,11 +44,11 @@ a:hover {color: #111;}
 .tag {margin-bottom: 0.5rem; margin-right: 0.1rem; font-size: 0.8rem;}
 .tag-cloud {margin-top: 1.5rem;}
 .tag.is-light {color: #111;}
-.footer a {font-weight: bold; border: none;}
+.footer a {font-weight: 500; border: none;}
 .footer {padding: 3rem 0; background: #ccd2d9;}
 .footer .column.is-1 {text-align: right;}
 .narrow-content {max-width: 700px; margin: auto;}
-.about {margin: 1rem auto 2rem;}
+.about-project {margin-right: 25px;}
 
 @media (max-width: 768px) {
 	.nav, .main-area, .container {padding: 1rem;}
