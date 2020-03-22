@@ -5,7 +5,7 @@ body {background: #e6e9ec; color: #111;}
 a {color: #85144b; border-bottom: 1px dotted #aaa;}
 a:hover {color: #111;}
 .emphasis {font-weight: 700 !important;}
-.nav {padding: 0.25rem 0.75rem;}
+.nav {padding: 0.5rem 0.75rem;}
 .nav h1 {font-size: 1.8em; font-weight: 900;}
 .remote-logo {margin-right: 0.3rem;}
 .nav-menu {padding: 0;}
@@ -22,7 +22,7 @@ a:hover {color: #111;}
 .hero.is-dark, .hero.is-info .hero-body {background: #1a3552; background: repeating-linear-gradient(0deg, rgba(0, 31, 63, .95), rgba(0, 31, 63, 0.95) 1px, rgba(0, 31, 63, .9) 1px, rgba(0, 31, 63, 0.9) 2px);}
 .hero.is-dark .title, .hero.is-info .title, .hero.is-info .subtitle, .hero.is-info .subtitle a, .hero.is-info .subtitle strong {color: #e6e9ec;}
 .hero.is-info {background: #1a3552 url('/images/map.jpg');}
-.hero-body {padding: 2rem 1.5rem 2.75rem;}
+.hero-body {padding: 2rem 1.5rem 3rem;}
 .main-area {margin-top: 0.5rem; margin-bottom: 1rem;}
 .card {margin-bottom: 1rem;}
 .card-footer {border: none;}
