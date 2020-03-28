@@ -3,6 +3,13 @@ body {
 	color: #111;
 }
 
+code {
+	background: #cfd2d4;
+	color: #3273dc;
+	font-size: 90%;
+  padding: 0.2rem 0.2rem 0.1rem;
+}
+
 .content,
 .content h1,
 .content h2,
