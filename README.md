@@ -1,5 +1,7 @@
 # [<img src="https://bestremote.work/favicon.ico" width="25px" />](https://bestremote.work) &nbsp;[Best Remote](https://bestremote.work)
 
+[<img src="images/screenshot.png" />](https://bestremote.work)
+
 ## Overview
 
 [Best Remote](https://bestremote.work) is a collection of resources about today's top remote-first and remote-friendly companies, organized in a clean, consumable and fun way.
