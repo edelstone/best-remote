@@ -1,4 +1,5 @@
 body {
+	font-family: 'Nunito', sans-serif;
 	background: #e6e9ec;
 	color: #111;
 }
@@ -36,7 +37,7 @@ code {
 
 a {
 	color: #85144b;
-	border-bottom: 1px dotted #aaa;
+	text-decoration: underline;
 }
 
 a:hover {
@@ -66,7 +67,7 @@ a:hover {
 
 .nav a {
 	color: #e6e9ec;
-	border: none;
+	text-decoration: none;
 }
 
 .nav-item a:hover,
@@ -96,7 +97,7 @@ a.nav-item:hover,
 
 .button {
 	padding: 1.2rem 0.8rem;
-	border: none;
+	text-decoration: none;
 	color: #fff !important;
 }
 
@@ -158,8 +159,9 @@ a.nav-item:hover,
 
 .card-footer .card-footer-item {
 	color: #fff;
+	text-decoration: none;
 	border: none;
-	font-weight: 500;
+	font-weight: 600;
 }
 
 .card-link-1 {
@@ -192,7 +194,7 @@ a.nav-item:hover,
 }
 
 .card .card-title a {
-	border: none;
+	text-decoration: none;
 }
 
 .card .card-sub {
@@ -208,12 +210,13 @@ a.nav-item:hover,
 }
 
 .social-etc a {
-	border: none;
+	text-decoration: none;
 }
 
 .social-etc .icon {
-	margin-right: 0.5rem;
+	margin-right: 0.6rem;
 	width: initial;
+	font-size: 22px;
 }
 
 .svg-icon {
@@ -244,7 +247,7 @@ a.nav-item:hover,
 }
 
 .footer-home {
-	border: none;
+	text-decoration: none;
 }
 
 .footer-home svg {
