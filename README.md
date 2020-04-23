@@ -29,6 +29,7 @@ Best Remote will always be free but your support is greatly appreciated.
 
 * Logo courtesy of [Freepik](http://www.freepik.com/) and pulled from [flaticon.com](http://www.flaticon.com/).
 * This site is built using the [Bulma framework](http://bulma.io/).
+* [Nunito typeface](https://fonts.google.com/specimen/Nunito) courtesy of [Google Fonts](https://fonts.google.com/).
 
 ## Feedback and contributing
 
