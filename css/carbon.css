@@ -50,6 +50,10 @@
   justify-content: center;
 }
 
+#carbonads {
+  max-width: 325px;
+}
+
 #carbonads a {
   border: none;
 }
