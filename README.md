@@ -23,9 +23,7 @@ Best Remote will always be free but your support is greatly appreciated.
 - [Venmo](https://venmo.com/michaeledelstone)
 - [Cash App](https://cash.app/$edelstone)
 - [Paypal](https://www.paypal.me/edelstone)
-- [GitHub Sponsors](https://github.com/sponsors/edelstone)
 - Bitcoin: `39t7oofR7AoZoAdH7gJLBrGnrgcJbsqmiP`
-- Other methods: [email me](mailto:michael.edelstone@gmail.com)
 
 ## Credits
 
