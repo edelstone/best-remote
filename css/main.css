@@ -1,7 +1,8 @@
 body {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Open Sans', 'Nunito', sans-serif;
 	background: #e6e9ec;
 	color: #111;
+	font-size: 1.1rem;
 }
 
 code {
@@ -54,7 +55,7 @@ a:hover {
 }
 
 .nav h1 {
-	font-size: 1.8em;
+	font-size: 2rem;
 	font-weight: 900;
 }
 
@@ -199,7 +200,7 @@ a.nav-item:hover,
 }
 
 .card .card-sub {
-	font-size: 0.8rem;
+	font-size: 1rem;
 }
 
 .card .content .employee-count {
@@ -232,7 +233,7 @@ a.nav-item:hover,
 .tag {
 	margin-bottom: 0.5rem;
 	margin-right: 0.1rem;
-	font-size: 0.8rem;
+	font-size: 1rem;
 }
 
 .tag-cloud {
