@@ -1,8 +1,8 @@
 body {
-	font-family: 'Open Sans', 'Nunito', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	background: #e6e9ec;
 	color: #111;
-	font-size: 1.1rem;
+	font-size: 1.2rem;
 }
 
 code {
@@ -70,6 +70,7 @@ a:hover {
 .nav a {
 	color: #e6e9ec;
 	text-decoration: none;
+	font-size: 1.2rem;
 }
 
 .nav-item a:hover,
@@ -151,6 +152,10 @@ a.nav-item:hover,
 	margin-bottom: 1rem;
 }
 
+.content h2 {
+	font-size: 2rem;
+}
+
 .card {
 	margin-bottom: 1rem;
 }
@@ -191,7 +196,7 @@ a.nav-item:hover,
 }
 
 .card .card-title {
-	margin-bottom: -0.5rem;
+	margin-bottom: -1rem;
 	font-weight: 900;
 }
 
@@ -244,6 +249,15 @@ a.nav-item:hover,
 	color: #111;
 }
 
+.footer {
+	padding: 3rem 0;
+	background: #ccd2d9;
+}
+
+.footer .columns {
+	align-items: center;
+}
+
 .footer a {
 	font-weight: 600;
 }
@@ -258,11 +272,6 @@ a.nav-item:hover,
 
 .footer-home:hover svg {
 	transform: scale(1.1);
-}
-
-.footer {
-	padding: 3rem 0;
-	background: #ccd2d9;
 }
 
 .footer .column.is-1 {
