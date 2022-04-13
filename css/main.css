@@ -26,7 +26,7 @@ code {
 .nav,
 .main-area,
 .container {
-	max-width: 1200px;
+	max-width: 1400px;
 	margin: auto;
 	padding: 1.5rem;
 }
@@ -144,7 +144,7 @@ a.nav-item:hover,
 }
 
 .hero-body {
-	padding: 2rem 1.5rem 3rem;
+	padding: 1.5rem 1.5rem 2rem;
 }
 
 .main-area {
