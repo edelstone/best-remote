@@ -172,26 +172,18 @@ a.nav-item:hover,
 }
 
 .card-link-1 {
-	background: #001f3f;
-}
-
-.card-link-1:hover {
-	background: #1a3552;
-}
-
-.card-link-2 {
 	background: #317a5a;
 }
 
-.card-link-2:hover {
+.card-link-1:hover {
 	background: #378a65;
 }
 
-.card-link-3 {
+.card-link-2 {
 	background: #85144b;
 }
 
-.card-link-3:hover {
+.card-link-2:hover {
 	background: #912c5d;
 }
 
