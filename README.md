@@ -1,6 +1,6 @@
 # [<img src="https://bestremote.work/favicon.ico" width="25px" />](https://bestremote.work) &nbsp;[Best Remote](https://bestremote.work)
 
-[<img src="images/browser.png" />](https://bestremote.work)
+[<img src="images/screenshot.png" />](https://bestremote.work)
 
 ## Overview
 
