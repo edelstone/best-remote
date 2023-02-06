@@ -140,7 +140,7 @@ a.nav-item:hover,
 }
 
 .hero.is-info {
-	background: #1a3552 url('/images/map.jpg');
+	background: #1a3552 url('images/map.jpg');
 }
 
 .hero-body {
