@@ -16,20 +16,8 @@ I personally gravitate towards organizations with an opinionated view of themsel
 
 I'm only featuring organizations that are “remote-only”, “remote-first” or very “remote-friendly”, not merely “remote-allowed” or those with significant geographic restrictions.
 
-## Support this project
-Best Remote will always be free but your support is greatly appreciated.
-
-- [Buy Me a Coffee](https://www.buymeacoffee.com/edelstone)
-- [Venmo](https://venmo.com/michaeledelstone)
-- [Cash App](https://cash.app/$edelstone)
-- [Paypal](https://www.paypal.me/edelstone)
-
 ## Credits
 
 * Logo courtesy of [Freepik](http://www.freepik.com/) and pulled from [flaticon.com](http://www.flaticon.com/).
 * This site is built using the [Bulma framework](http://bulma.io/).
 * [Nunito typeface](https://fonts.google.com/specimen/Nunito) courtesy of [Google Fonts](https://fonts.google.com/).
-
-## Feedback and contributing
-
-If this site has been useful to you, [drop me a line](https://michaeledelstone.com/contact) to let me know. And please fork, open issues, or use any bit of this site for your own purposes.
