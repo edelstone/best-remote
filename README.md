@@ -1,6 +1,6 @@
-# [<img src="https://edelstone.github.io/best-remote/favicon.ico" width="25px" />](https://edelstone.github.io/best-remote) &nbsp;[Best Remote](https://edelstone.github.io/best-remote)
+# [<img src="https://edelstone.github.io/best-remote/favicon.ico" width="25px" alt="" />](https://edelstone.github.io/best-remote) &nbsp;[Best Remote](https://edelstone.github.io/best-remote)
 
-[<img src="images/screenshot.png" />](https://edelstone.github.io/best-remote)
+[<img src="images/screenshot.png" alt="Screenshot of app home page" />](https://edelstone.github.io/best-remote)
 
 ## Overview
 
