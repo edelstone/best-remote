@@ -1,6 +1,6 @@
 # [Best Remote](https://edelstone.github.io/best-remote)
 
-[<img src="images/screenshot.png" alt="Screenshot of app home page" />](https://edelstone.github.io/best-remote)
+[<img src="images/chrome.png" alt="Screenshot of app home page" />](https://edelstone.github.io/best-remote)
 
 ## Overview
 
